@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47d05218-124b-4029-9d42-5fa453c5ed66": {
+      "ProjectGuid": "47d05218-124b-4029-9d42-5fa453c5ed66",
+      "DisplayName": "MemoryGame",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b75b2bce-f10b-43a1-add7-8a4fcbb74a32": {
+      "ProjectGuid": "b75b2bce-f10b-43a1-add7-8a4fcbb74a32",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
