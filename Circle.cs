@@ -16,6 +16,7 @@ namespace MemoryGame
         public int Y { get; set; }
         public int R { get; set; }
         public Color color { get; set; }
+
         public void Draw(Graphics g)
         {
             SolidBrush brush = new SolidBrush(color);
