@@ -15,7 +15,12 @@
       "ProjectGuid": "b75b2bce-f10b-43a1-add7-8a4fcbb74a32",
       "DisplayName": "Solution Items",
       "ColorIndex": 1
+    },
+    "ea8dfbba-74e8-4ded-aad6-e507c3df8374": {
+      "ProjectGuid": "ea8dfbba-74e8-4ded-aad6-e507c3df8374",
+      "DisplayName": "workflows",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
